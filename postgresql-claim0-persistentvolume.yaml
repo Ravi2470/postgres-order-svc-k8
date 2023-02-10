@@ -11,4 +11,4 @@ spec:
   accessModes:
     - ReadWriteOnce
   hostPath:
-    path: "/Users/rajeshp/docker/postgres/docker-pg-vol/data"
+    path: "/home/ravi/postgres-order-svc-k8/volume"
